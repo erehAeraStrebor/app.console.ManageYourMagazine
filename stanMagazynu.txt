@@ -1,0 +1,63 @@
+========Magazyn========
+-----------------------
+=====Pomieszczenia=====
+INFO::::Pomieszczenie o ID: 10
+INFO::::Powierzchnia pomieszczenia: 86.18759739807587
+INFO::::Powierzchnia wolna: 86.18759739807587
+STATUS:: do wynajecia
+STAN:: Pomieszczenie puste
+
+INFO::::Pomieszczenie o ID: 10
+INFO::::Powierzchnia pomieszczenia: 164.18683266186576
+INFO::::Powierzchnia wolna: 164.18683266186576
+STATUS::::Wlasciciel: Kim Weithethreads
+STAN:: Pomieszczenie puste
+
+INFO::::Pomieszczenie o ID: 10
+INFO::::Powierzchnia pomieszczenia: 171.5459716531177
+INFO::::Powierzchnia wolna: 171.5459716531177
+STATUS:: do wynajecia
+STAN:: Pomieszczenie puste
+
+INFO::::Pomieszczenie o ID: 10
+INFO::::Powierzchnia pomieszczenia: 186.22118104931081
+INFO::::Powierzchnia wolna: 186.22118104931081
+STATUS:: do wynajecia
+STAN:: Pomieszczenie puste
+
+INFO::::Pomieszczenie o ID: 10
+INFO::::Powierzchnia pomieszczenia: 191.73961160929343
+INFO::::Powierzchnia wolna: 191.73961160929343
+STATUS:: do wynajecia
+STAN:: Pomieszczenie puste
+
+INFO::::Pomieszczenie o ID: 10
+INFO::::Powierzchnia pomieszczenia: 262.503337134399
+INFO::::Powierzchnia wolna: 262.503337134399
+STATUS:: do wynajecia
+STAN:: Pomieszczenie puste
+
+INFO::::Pomieszczenie o ID: 10
+INFO::::Powierzchnia pomieszczenia: 269.4306135468127
+INFO::::Powierzchnia wolna: 269.4306135468127
+STATUS:: do wynajecia
+STAN:: Pomieszczenie puste
+
+INFO::::Pomieszczenie o ID: 10
+INFO::::Powierzchnia pomieszczenia: 273.18745337660084
+INFO::::Powierzchnia wolna: 273.18745337660084
+STATUS:: do wynajecia
+STAN:: Pomieszczenie puste
+
+INFO::::Pomieszczenie o ID: 10
+INFO::::Powierzchnia pomieszczenia: 275.5219297433763
+INFO::::Powierzchnia wolna: 275.5219297433763
+STATUS:: do wynajecia
+STAN:: Pomieszczenie puste
+
+INFO::::Pomieszczenie o ID: 10
+INFO::::Powierzchnia pomieszczenia: 301.35958584196817
+INFO::::Powierzchnia wolna: 301.35958584196817
+STATUS:: do wynajecia
+STAN:: Pomieszczenie puste
+

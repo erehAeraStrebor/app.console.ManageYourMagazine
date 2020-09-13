@@ -1,0 +1,28 @@
+	>>>WareHouse Robsons'<<<
+
+Opcja:  			Działanie:
+--------------------------------------------------------
+"9"					-opuszczenie programu
+--------------------------------------------------------
+"1"					-wybranie najemcy
+--------------------------------------------------------
+"2"					-wypisanie informacji 
+			  		o danej osobie i wynajetych 							      
+					pomieszczeniach(o ile istnieja)
+--------------------------------------------------------
+"3"					-wyswietlenie zawartosci 
+   					wybranego pomieszczenia 
+						danej osoby
+--------------------------------------------------------
+"4"					-wlozenie nowego 
+				      	przedmiotu/pojazdu
+--------------------------------------------------------
+"5"					-wyjecie przedmiotu/
+						pojazdu
+--------------------------------------------------------
+"6" 				-wyswietlenie wolnych 
+					pomieszczen
+--------------------------------------------------------
+"7" 				-wynajecie nowego 
+					pomieszczenia
+--------------------------------------------------------
